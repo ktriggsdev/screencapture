@@ -7,8 +7,12 @@
 **Step 2.** Install the packages found in `requirements.txt` by running ```python3 -m pip install -r requirements.txt``` 
 in the console
 
-**Step 3.** Run the app either in your IDE or by typing `python3 screenshot.py` in the console
+### ***Running the app:*** 
 
-**Step 4.** Click the `Camera` icon to take a screenshot. The button will change it's state to `disabled`
+**Step 1.** Run the app either in your IDE or by typing `python3 screenshot.py` in the console
+
+**Step 2.** Click the `Camera` icon to take a screenshot. The button will change it's state to `disabled`
 Then it will change back after 5 seconds allowing you to take a new screenshot. To exit the application
 click the `X` icon.
+
+
