@@ -1,4 +1,4 @@
-﻿# screencapture
+﻿# screen-capture
 ## A Python application to take screenshots using a GUI interface
 
 ### ***Setup:***
