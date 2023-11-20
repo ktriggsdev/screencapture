@@ -21,7 +21,7 @@ click the `X` icon.
 <details>
 <summary>View Changelog</summary>
 
-| Date          |                        Changes                        |
+|     Date      |                        Changes                        |
 |--------------:|-------------------------------------------------------|
 |     `20-11-23`| Project Started                                       |
 |     `20-11-23`| `README.md` edited to include instructions of use.    |
