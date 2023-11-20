@@ -16,3 +16,6 @@ Then it will change back after 5 seconds allowing you to take a new screenshot. 
 click the `X` icon.
 
 
+### ***Changelog:***
+`20-11-23` - Project Started.
+`20-11-23` - `README.md` edited to include instructions of use.
